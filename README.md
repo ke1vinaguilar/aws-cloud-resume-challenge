@@ -9,7 +9,6 @@ In this lab I will be building my own resume integrated into GitHub and hosted o
 
 <h2>Languages Used</h2>
 
-- <b>C#</b> 
 - <b>Python</b>
 - <b>HTML</b>
 - <b>CSS</b>
