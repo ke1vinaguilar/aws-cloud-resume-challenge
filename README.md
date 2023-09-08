@@ -15,7 +15,7 @@ In this lab I will be building my own resume integrated into GitHub and hosted o
 
 <h2>Utilities Used</h2>
 
-- <b>Amazon Web Services (AWS)</b> 
+- <b>Amazon Web Services (AWS): S3, AWS CloudFront, Certificate Manager, AWS Lambda, DynamoDB </b>
 - <b>GitHub</b>
 
 <!--
